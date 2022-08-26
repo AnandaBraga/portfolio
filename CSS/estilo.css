@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'aboreto';
+    src: url('../fontes/Aboreto/Aboreto-Regular.ttf');
+}
+
+h1{
+    font-family: 'aboreto';
+    color: purple;
+}
+
+p{
+    font-family: 'aboreto';
+}
+
+h2{
+    font-family: 'aboreto';
+    background-color: lightslategray;
+}
+
+ul{
+    font-family: 'aboreto';
+}
+
+h3{
+    font-family: 'aboreto';
+    background-color: lightslategray;
+}
